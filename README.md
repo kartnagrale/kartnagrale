@@ -21,6 +21,6 @@ I make elegant UI for **App Devlopment** 💻 likes to solve **competitive progr
 <details>
   
   <summary>⚡: Github Stats</summary>
-  <img align="left" alt="Kartik's Github stats" src="https://github-readme-stats.kartnagrale.vercel.app/api?username=kartnagrale&show_icons=true&hide_border=true" />
+  [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartnagrale)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
