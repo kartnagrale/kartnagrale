@@ -6,7 +6,7 @@
 
 I make elegant UI for **App Devlopment** 💻 likes to solve **competitive programming** problems and also used to **Write some blogs**. 🌈    
 
-* 🧐   Interested in full stack.
+* 🧐   Interested in full stack android devlopment.
 * 🌱   I’m currently learning android devlopment using **Kotlin**
 * 🎓   Bachelor of Technology in Information Technology.
 * 📫   How to reach me: kartikknagrale@gmail.com
