@@ -18,15 +18,8 @@ I make elegant UI for **App Devlopment** 💻 likes to solve **competitive progr
   </a>
 </p>
 
-
-
-
-<!--
 <details>
-  
   <summary>⚡: Github Stats</summary>
-  [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartnagrale)](https://github.com/anuraghazra/github-readme-stats)
-  
+  [![Kartik's GitHub stats](https://github-readme-stats-git-master-kartik-nagrales-projects.vercel.app/api?username=kartnagrale)](https://github.com/kartnagrale/github-readme-stats)
 </details>
--->
-[![Kartik's GitHub stats](https://github-readme-stats-git-master-kartik-nagrales-projects.vercel.app/api?username=kartnagrale)](https://github.com/kartnagrale/github-readme-stats)
+
