@@ -8,7 +8,7 @@ I make elegant UI for **App Devlopment** 💻 likes to solve **competitive progr
 
 * 🧐   Interested in full stack android devlopment.
 * 🌱   I’m currently learning android devlopment using **Kotlin**
-* 🎓   Bachelor of Technology in Information Technology.
+* 🎓   Bachelor of Technology in Information Technology 3rd Year.
 * 📫   How to reach me: kartikknagrale@gmail.com
 
 # My Tech Stack
