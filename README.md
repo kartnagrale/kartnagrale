@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello there 👋
 
 <!--
 **kartnagrale/kartnagrale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I make elegant UI for **App Devlopment** 💻 likes to solve **competitive programming** problems and also used to **Write some blogs**. 🌈    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 🧐   Interested in full stack.
+* 🌱   I’m currently learning android devlopment using **Kotlin**
+* 🎓   Bachelor of Technology in Information Technology.
+* 📫   How to reach me: kartikknagrale@gmail.com
 -->
+
+# My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,git,java,kotlin,html,css" />
+  </a>
+</p>
