@@ -18,4 +18,9 @@ I make elegant UI for **App Devlopment** 💻 likes to solve **competitive progr
   </a>
 </p>
 
-[![Kartik's GitHub stats](https://github-readme-stats.kartnagrale.vercel.app/api?username=kartnagrale)]
+<details>
+  
+  <summary>⚡: Github Stats</summary>
+  <img align="left" alt="Kartik's Github stats" src="https://github-readme-stats.kartnagrale.vercel.app/api?username=kartnagrale&show_icons=true&hide_border=true" />
+  
+</details>
