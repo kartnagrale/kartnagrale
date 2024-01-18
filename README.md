@@ -10,6 +10,7 @@ I make elegant UI for **App Devlopment** 💻 likes to solve **competitive progr
 * 🌱   I’m currently learning android devlopment using **Kotlin**
 * 🎓   Bachelor of Technology in Information Technology 3rd Year.
 * 📫   How to reach me: kartikknagrale@gmail.com
+* ✨   Connect with me: https://www.linkedin.com/in/kartik-nagrale/
 
 # My Tech Stack
 <p align="center">
