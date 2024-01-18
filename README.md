@@ -15,7 +15,7 @@ I make elegant UI for **App Devlopment** 💻 likes to solve **competitive progr
 # My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,git,java,kotlin,html,css,xml" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,git,java,kotlin,html,css" />
   </a>
 </p>
 
