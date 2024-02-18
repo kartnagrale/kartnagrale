@@ -8,6 +8,7 @@ I make elegant UI for **App Devlopment** 💻 likes to solve **competitive progr
 
 * 🧐   Interested in full stack android devlopment.
 * 🌱   I’m currently learning android devlopment using **Kotlin**
+* ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale
 * 🎓   Bachelor of Technology in Information Technology 3rd Year.
 * 📫   How to reach me: kartikknagrale@gmail.com
 * ✨   Connect with me: https://www.linkedin.com/in/kartik-nagrale/
