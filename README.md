@@ -4,11 +4,10 @@
 **kartnagrale/kartnagrale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-**App Devlopment** 💻 || **competitive programming** || **Data Structures** || YCCE'IT 25. 🌈    
+**App Development** 💻 || **Competitive Programming** || **Data Structures** || YCCE'IT 25. 🌈    
 
 * 🧐   Interested in full stack android devlopment.
-* 🌱   I’m currently learning android devlopment using **Kotlin**
-* 🎓   Bachelor of Technology in Information Technology 3rd Year.
+* 🌱   I’m currently building partners app. 
 * ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale
 * 📫   How to reach me: kartikknagrale@gmail.com
 * ✨   Connect with me: https://www.linkedin.com/in/kartik-nagrale/
