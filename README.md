@@ -7,7 +7,7 @@
 **App Development** 💻 || **Competitive Programming** || **Data Structures** || YCCE'IT 25. 🌈    
 
 * 🧐   Interested in full stack android devlopment.
-* 🌱   I’m currently building partners app. 
+* 🌱   I’m currently building Ride Pal app. 
 * ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale
 * 📫   How to reach me: kartikknagrale@gmail.com
 * ✨   Connect with me: https://www.linkedin.com/in/kartik-nagrale/
