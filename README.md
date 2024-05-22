@@ -8,7 +8,7 @@
 
 * 🧐   Interested in full stack android devlopment.
 * 🌱   I’m currently building Ride Pal app. 
-* ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale (3✨)
+* ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale (max: 3✨)
 * 📫   How to reach me: kartikknagrale@gmail.com
 * ✨   Connect with me: https://www.linkedin.com/in/kartik-nagrale/
 
