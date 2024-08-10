@@ -7,8 +7,7 @@
 <!--**App Development** 💻 ||--> 
 **Competitive Programming** || **Data Structures** || YCCE'IT 25. 🌈    
 
-* 🧐   Interested in full stack devlopment.
-* 🌱   I’m currently building ___.
+* 🌱   I’m currently learning Web Development.
 * ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale (max: 3✨)
 * ✨   My codeforces profile: https://codeforces.com/profile/Kartiknagrale (pupil)
 * 📫   How to reach me: kartikknagrale@gmail.com
