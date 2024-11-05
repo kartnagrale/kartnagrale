@@ -7,8 +7,8 @@
 <!--**App Development** 💻 ||--> 
 **Competitive Programming** || **Data Structures** || YCCE'IT 25. 🌈    
 
-* ✨   Checkout my portfolio: https://kartnagrale.github.io/portfolio/
-* 🌱   I’m currently learning Full Stack Development.
+* ✨   Currently working on OrangeCityMart : https://orangecitymart.netlify.app/
+* 🌱   I’m currently Enhancing my Skills Full Stack Development.
 * ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale (max: 3✨)
 * ✨   My codeforces profile: https://codeforces.com/profile/Kartiknagrale (pupil)
 * 📫   How to reach me: kartikknagrale@gmail.com
