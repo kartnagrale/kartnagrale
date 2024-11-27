@@ -10,6 +10,7 @@
 * ✨   Currently working on OrangeCityMart : https://orangecitymart.netlify.app/
 * 🌱   I’m currently Enhancing my Skills in Full Stack Development.
 * ✨   My codechef profile: https://www.codechef.com/users/kartiknagrale (max: 3✨)
+* ✨   My leetcode profile: https://leetcode.com/u/kartikknagrale
 * ✨   My codeforces profile: https://codeforces.com/profile/Kartiknagrale (pupil)
 * 📫   How to reach me: kartikknagrale@gmail.com
 * ✨   Connect with me: https://www.linkedin.com/in/kartik-nagrale/
