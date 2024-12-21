@@ -18,7 +18,7 @@
 # My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,git,postman,java,kotlin,html,css,tailwind,js,react,vite,stackoverflow,npm,python,androidstudio,vscode,latex,mongodb,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,kotlin,html,css,tailwind,js,react,vite,git,npm,postman,stackoverflow,androidstudio,vscode,latex,mongodb,figma" />
   </a>
 </p>
 
