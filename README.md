@@ -5,7 +5,7 @@
 -->
 
 <!--**App Development** 💻 ||--> 
-**Competitive Programming** || **Data Structures** || YCCE'IT 25. 🌈    
+**Competitive Programming** || **Data Structures**|| **Full Stack Development** || YCCE'IT 25. 🌈    
 
 * ✨   Currently working on OrangeCityMart : https://orangecitymart.netlify.app/
 * 🌱   I’m currently Enhancing my Skills in Full Stack Development.
@@ -18,7 +18,7 @@
 # My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,git,java,kotlin,html,css,python,androidstudio,figma,gcp" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,git,postman,java,kotlin,html,css,tailwind,js,react,vite,stackoverflow,npm,python,androidstudio,vscode,latex,mongodb,figma" />
   </a>
 </p>
 
