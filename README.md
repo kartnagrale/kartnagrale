@@ -152,3 +152,73 @@ Open to connecting with engineers, researchers, and teams working on challenging
 ![Profile Views](https://komarev.com/ghpvc/?username=kartnagrale&style=flat-square)
 
 </div>
+
+
+
+
+# Hi, I'm Kartik Nagrale 👋
+
+**Java Backend Developer | Spring Boot | Trading Systems | Distributed Systems**
+
+I build backend services and real-time applications where **correctness, performance, and maintainability** matter. At **NCDEX e Markets Ltd. (NeML)**, I work on enterprise auction and trading workflows, API integrations, SQL-backed systems, production debugging, and automation.
+
+📍 Nagpur, India · Open to SDE-1 / Java Backend opportunities and relocation
+
+[Portfolio](https://kartnagrale.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/kartik-nagrale/) · [Email](mailto:kartikknagrale@gmail.com) · [LeetCode](https://leetcode.com/u/kartikknagrale) · [CodeChef](https://www.codechef.com/users/kartiknagrale)
+
+---
+
+## 🛠️ What I've built and improved
+
+- **Made recurring reports self-service:** Built an Angular + Spring Boot workflow that replaced a manual **four-file mapping/configuration process** with database-backed mapping and schedule configuration. Operations can define data selection, filters, recipients, and scheduled Excel email delivery; setup time went from **1–2 hours to 1–2 minutes**, with **100+ active mappings**.
+- **Optimized trading-system request paths:** Improved NeML's MarketWatch service by moving repeated Redis reads, deserialization, and shared computations off the request path into precomputed snapshots. My resume reports the four-server system improving from around **2,000 to 10,000+ requests/second**; benchmark context is available to discuss in interviews.
+- **Supported real trading platforms:** Worked on Java/Spring Boot services, matching and order-routing flows, API integrations, SQL investigations, and UAT/production troubleshooting.
+
+> Professional work is summarized at a high level. Internal source code and proprietary details are not shared here.
+
+## 🚀 Featured projects
+
+### 🏆 [Play-NeML / Sports Play V2](https://github.com/kartnagrale/sports-play-v2) — Multi-sport championship & live auctions
+
+**[Live demo](https://demo.playarc.tech/) · [Source code](https://github.com/kartnagrale/sports-play-v2)**
+
+A multi-tenant sports platform covering championship setup, player auctions, squad confirmation, leagues/playoffs, scoring, standings, and analytics. Backend flows keep championship data scoped while WebSocket events synchronize live auction state.
+
+`Java 17` · `Spring Boot 3.5` · `Spring Security` · `JPA` · `PostgreSQL` · `WebSockets/STOMP` · `Next.js 16` · `TypeScript` · `Docker`
+
+**Interesting engineering problems:** role-aware access, live bidding/state transitions, per-championship isolation, and deployable full-stack workflows.
+
+*Demo/staging project; repository documentation identifies outstanding production security blockers. Not described as production-ready.*
+
+### 🔭 [LOG-A-TRON](https://github.com/kartnagrale/log-a-tron) — Logs, traces & evidence-driven RCA
+
+Built a local-development observability platform with OpenTelemetry and Kafka ingestion, structured ClickHouse log storage, and correlation with Grafana Tempo traces and Prometheus metrics. A Spring Boot API enforces project/environment scope; an Angular UI supports investigation workflows.
+
+`Java` · `Spring Boot` · `Angular` · `Kafka` · `OpenTelemetry` · `ClickHouse` · `Tempo` · `Prometheus` · `PostgreSQL` · `Docker Compose`
+
+**Interesting engineering problems:** at-least-once log ingestion, authorization-scoped search, and distinguishing initiating failures from downstream symptoms using traceable evidence.
+
+*The repository uses a deterministic investigation engine and stub AI provider; it does not claim a deployed external LLM integration.*
+
+## ⚙️ Tech stack
+
+| Area | Technologies |
+|---|---|
+| Core backend | **Java, Spring Boot, Spring MVC, REST APIs, JPA/Hibernate, Spring Security** |
+| Data & event-driven systems | **PostgreSQL, SQL, Redis, Kafka, WebSockets/STOMP** |
+| Engineering tools | **Git, Docker, Linux, Postman, CI/CD, debugging & RCA** |
+| Frontend (for end-to-end delivery) | **Angular, TypeScript, React, Next.js** |
+| Fundamentals | **DSA, OOP, concurrency, transactions, API design** |
+
+## 🏅 Highlights
+
+- **500+ LeetCode problems solved**; 1600+ LeetCode contest rating (as listed on my resume)
+- **CodeChef 3-Star** (peak rating: 1693); institute rank #1
+- **TCS CodeVita Season 12:** Global Rank 1404
+- **2× Team of the Quarter** recognition at NeML
+- **B.Tech in Information Technology (2025)**, YCCE Nagpur
+- Co-authored research on deepfake image detection presented at **ICDSINC 2025, NIT Raipur**
+
+## 🤝 Let's connect
+
+I'm interested in **Java backend engineering, real-time systems, distributed systems, fintech infrastructure, and developer tooling**. If you're hiring for an **SDE-1 / Backend Developer** role, see my [portfolio](https://kartnagrale.github.io/portfolio/) or reach me on [LinkedIn](https://www.linkedin.com/in/kartik-nagrale/).
